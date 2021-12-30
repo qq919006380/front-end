@@ -1,3 +1,6 @@
+>不定期更新一些前端相关不错的资源学习网站
+>[欢迎提PR](https://github.com/qq919006380/front-end/issues)
+
 ## 前置知识
 
 - [直面JavaScript中的30个疑难杂症-视频](https://www.imooc.com/learn/1303?utm_source=courseright)
