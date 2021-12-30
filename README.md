@@ -15,6 +15,7 @@
 - [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks)
 - [30秒实用js片段](https://30secondsofcode.org/)
 - [github-js排行](https://github.com/search?l=JavaScript&o=desc&p=1&q=stars%3A%3E1&s=stars&type=Repositories)
+- [阮一峰的ES6标准入门](https://es6.ruanyifeng.com/)
 
 ## 优质文章
 
