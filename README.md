@@ -32,3 +32,7 @@
 - [stackoverflow](https://stackoverflow.com/)
 - [掘金](https://juejin.cn/)
 - [NODE中文社区](https://cnodejs.org/)
+
+## 静态网站生成器
+- [docusaurus](https://www.docusaurus.cn/)
+- [vuepress](https://v2.vuepress.vuejs.org/zh/)
