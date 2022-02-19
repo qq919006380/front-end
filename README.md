@@ -10,7 +10,7 @@
 ## CSS
 
 - [30秒实用css片段](https://www.30secondsofcode.org/css/p/1)
-- [在线css编辑](https://codepen.io/)
+- [在线css编辑社区codepen](https://codepen.io/)
 - [flex青蛙小游戏](http://flexboxfroggy.com/#zh-cn)
 
 ## JavaScript
