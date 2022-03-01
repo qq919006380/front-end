@@ -34,6 +34,9 @@
 - [掘金](https://juejin.cn/)
 - [NODE中文社区](https://cnodejs.org/)
 
+## 插件
+- [vue3列表拖拽排序插件](https://github.com/SortableJS/vue.draggable.next)
+
 ## 静态网站生成器
 - [docusaurus](https://www.docusaurus.cn/)
 - [vuepress](https://v2.vuepress.vuejs.org/zh/)
