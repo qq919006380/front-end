@@ -20,6 +20,7 @@
 - [30秒实用js片段](https://30secondsofcode.org/)
 - [github-js排行](https://github.com/search?l=JavaScript&o=desc&p=1&q=stars%3A%3E1&s=stars&type=Repositories)
 - [阮一峰的ES6标准入门](https://es6.ruanyifeng.com/)
+- [可视化 JS EventLoop 中的执行栈、任务队列](https://www.jsv9000.app/)
 
 ## 优质文章
 
@@ -40,3 +41,4 @@
 ## 静态网站生成器
 - [docusaurus](https://www.docusaurus.cn/)
 - [vuepress](https://v2.vuepress.vuejs.org/zh/)
+
