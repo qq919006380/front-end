@@ -28,6 +28,12 @@
 - [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 - [前端资源](https://github.com/poppinlp/fe-store-house)
 - [收集优质的中文前端博客（不定期更新中）](https://github.com/FrankFang/best-chinese-front-end-blogs)
+- [手写cli工具开发](https://juejin.im/post/5cc160b2f265da03452bdf5b)
+- [所有请求放一个文件管理](https://www.jianshu.com/p/72d911b6d61d)
+    - 关键词 ：axios封装，接口统一管理。
+- [前端无痛刷新Token](https://juejin.cn/post/7075348765162340383)
+- [Webpack 设置环境变量的误区](https://juejin.cn/post/6844904023791796237)
+- [以前端架构师身份，从零开始搞事搞事搞事](https://juejin.cn/post/6952066955868110879#heading-12)
 
 
 
