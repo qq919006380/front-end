@@ -43,3 +43,5 @@
 - [docusaurus](https://www.docusaurus.cn/)
 - [vuepress](https://v2.vuepress.vuejs.org/zh/)
 
+## 工具网站
+- [图片压缩](https://tinypng.com)
