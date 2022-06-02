@@ -22,6 +22,7 @@
 - [阮一峰的ES6标准入门](https://es6.ruanyifeng.com/)
 - [可视化 JS EventLoop 中的执行栈、任务队列](https://www.jsv9000.app/)
 - [JSConf](https://www.youtube.com/c/JSConfEU/videos)
+- [JavaScript心智模型](https://sudongyuer.github.io/javascript-mental-models/)
 
 ## 优质文章
 
