@@ -54,4 +54,4 @@
 - [图片压缩](https://tinypng.com)
 - [渐变背景](https://uigradients.com/#MangoPulp)
 - [免费网站模板](https://webpagedesign.io/)
-- [前端在线开发工具](https://stackblitz.com/)
+- [前端在线开发工具(stackblitz)](https://stackblitz.com/)
