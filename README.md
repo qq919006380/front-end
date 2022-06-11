@@ -46,6 +46,7 @@
 ## 插件
 - [vue3列表拖拽排序插件](https://github.com/SortableJS/vue.draggable.next)
 - [滚动动画](https://scrollrevealjs.org/)
+- [文字特效](https://github.com/hanks-zyh/HTextView)
 
 ## 静态网站生成器
 - [docusaurus](https://www.docusaurus.cn/)
