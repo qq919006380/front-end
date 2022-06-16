@@ -23,6 +23,7 @@
 - [可视化 JS EventLoop 中的执行栈、任务队列](https://www.jsv9000.app/)
 - [JSConf](https://www.youtube.com/c/JSConfEU/videos)
 - [JavaScript心智模型](https://sudongyuer.github.io/javascript-mental-models/)
+- [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 
 ## 优质文章
 
