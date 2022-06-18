@@ -24,7 +24,7 @@
 - [JSConf](https://www.youtube.com/c/JSConfEU/videos)
 - [JavaScript心智模型](https://sudongyuer.github.io/javascript-mental-models/)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-
+- [纯前端打包下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)
 ## 优质文章
 
 - [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
