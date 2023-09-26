@@ -13,6 +13,12 @@
 - [在线css编辑社区codepen](https://codepen.io/)
 - [flex青蛙小游戏](http://flexboxfroggy.com/#zh-cn)
 
+# 优秀动画库
+- [hover动画](http://ianlunn.github.io/Hover/)
+- [纸屑烟花](https://www.kirilv.com/canvas-confetti/)
+- [animate.css](https://animate.style/)
+- [打字效果](https://github.com/mattboldt/typed.js/)
+- [颜色渐变动画](https://sarcadass.github.io/granim.js/index.html)
 ## JavaScript
 
 - [proxy-www](https://github.com/justjavac/proxy-www)
