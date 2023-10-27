@@ -12,6 +12,7 @@
 - [30秒实用css片段](https://www.30secondsofcode.org/css/p/1)
 - [在线css编辑社区codepen](https://codepen.io/)
 - [flex青蛙小游戏](http://flexboxfroggy.com/#zh-cn)
+- [loader大全](https://css-loaders.com/)
 
 # 优秀动画库
 - [hover动画](http://ianlunn.github.io/Hover/)
