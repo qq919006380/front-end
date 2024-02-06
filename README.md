@@ -20,6 +20,9 @@
 - [animate.css](https://animate.style/)
 - [打字效果](https://github.com/mattboldt/typed.js/)
 - [颜色渐变动画](https://sarcadass.github.io/granim.js/index.html)
+- [强大动画库 animejs](https://animejs.com/)
+- [专业的js动画库 gsap](https://gsap.com/)
+- [滚动作出反应](https://github.com/terwanerik/ScrollTrigger)
 ## JavaScript
 
 - [proxy-www](https://github.com/justjavac/proxy-www)
