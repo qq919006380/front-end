@@ -23,6 +23,8 @@
 - [强大动画库 animejs](https://animejs.com/)
 - [专业的js动画库 gsap](https://gsap.com/)
 - [滚动作出反应](https://github.com/terwanerik/ScrollTrigger)
+- [界面动画](https://jitter.video/?noredir=1)
+- [界面动画](https://ui.aceternity.com/)
 ## JavaScript
 
 - [proxy-www](https://github.com/justjavac/proxy-www)
