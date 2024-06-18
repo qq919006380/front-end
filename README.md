@@ -25,6 +25,7 @@
 - [专业的js动画库 gsap](https://gsap.com/)
 - [滚动作出反应](https://github.com/terwanerik/ScrollTrigger)
 - [界面动画](https://jitter.video/?noredir=1)
+- [落地页组件](https://magicui.design/)
 - [用户界面](https://ui.aceternity.com/)
 ## JavaScript
 
