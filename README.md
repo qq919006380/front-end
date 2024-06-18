@@ -78,6 +78,7 @@
 - [yeoman打造自己的项目手脚架](https://yeoman.io/)
 - [免费商用字体](https://www.maoken.com/)
 - [git格式转换](https://ezgif.com/)
+- [一个免费的网站SEO检查和建议工具](https://www.seoptimer.com/gptshunter.com)
 
   ## 模版
   - [免费sass模版](https://opensaas.sh/)
