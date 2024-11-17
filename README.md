@@ -2,13 +2,11 @@
 >[欢迎提PR](https://github.com/qq919006380/front-end/issues)
 
 ## 前置知识
-
 - [直面JavaScript中的30个疑难杂症-视频](https://www.imooc.com/learn/1303?utm_source=courseright)
 - [全方位入门git-视频](https://www.imooc.com/learn/1278?mc_marking=bb86c9071ed9b7cf12612a2a85203372&mc_channel=hk)
 - [Git 在线入门教程](http://pcottle.github.io/learnGitBranching/?locale=zh_CN)
 
 ## CSS
-
 - [30秒实用css片段](https://www.30secondsofcode.org/css/p/1)
 - [在线css编辑社区codepen](https://codepen.io/)
 - [flex青蛙小游戏](http://flexboxfroggy.com/#zh-cn)
@@ -27,8 +25,8 @@
 - [界面动画](https://jitter.video/?noredir=1)
 - [落地页组件](https://magicui.design/)
 - [用户界面](https://ui.aceternity.com/)
-## JavaScript
 
+## JavaScript
 - [proxy-www](https://github.com/justjavac/proxy-www)
 - [javascript 的 12 个怪癖（quirks）](https://github.com/justjavac/12-javascript-quirks)
 - [30秒实用js片段](https://30secondsofcode.org/)
@@ -39,8 +37,8 @@
 - [JavaScript心智模型](https://sudongyuer.github.io/javascript-mental-models/)
 - [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 - [纯前端打包下载](https://www.zhangxinxu.com/wordpress/2019/08/js-zip-download/)
-## 优质文章
 
+## 优质文章
 - [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 - [前端资源](https://github.com/poppinlp/fe-store-house)
 - [收集优质的中文前端博客（不定期更新中）](https://github.com/FrankFang/best-chinese-front-end-blogs)
